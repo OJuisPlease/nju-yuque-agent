@@ -22,6 +22,9 @@ build/
 # 本地临时
 *.log
 
+# 机器信息交接（IP / 账号 / 密码）——docs/deploy.md 明令不进公开仓库
+.local/
+
 # 部署/运维时用的一次性本地脚本与中间产物（不要进仓库）
 .ssh_*.py
 .push_creds.py
