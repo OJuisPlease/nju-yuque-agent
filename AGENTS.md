@@ -10,6 +10,8 @@
 | [`docs/deploy.md`](docs/deploy.md) | 部署真相：目录布局、三个 systemd 单元、二选一矩阵、验收清单 |
 | [`docs/handoff.md`](docs/handoff.md) | 对下游（cac / 洋芋）的**冻结契约**：申请 JSON 与通知事件 |
 | `AGENTS.md`（本文件） | 干活规矩：怎么改、怎么部署、什么绝对不许做 |
+| [`docs/status.md`](docs/status.md) | 项目现状：谁在跑、缺什么、代码线在哪 —— **接手前先看** |
+| `.local/access.md` | **本机文件（已 gitignore）**：生产机怎么连、凭证在哪、常用命令 |
 
 ## 1. 一条上游，feature 分支交付
 

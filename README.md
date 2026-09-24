@@ -83,6 +83,9 @@
 | [`docs/design.md`](docs/design.md) | **给维护者**：架构、周期定义、工具分级、提示词写法、踩过的坑 |
 | [`docs/qqbot.md`](docs/qqbot.md) | **给 QQBot 接入方**：扫码登录全流程（含本地 HTTP 接口）、通知投递、入站命令的能力边界、故障排查 |
 | [`docs/test-report.md`](docs/test-report.md) | **给验收者**：五轮端到端测试的证据、发现的 7 个 bug、复现方式 |
+| [`docs/deploy.md`](docs/deploy.md) | **给运维**：目录布局、三个 systemd 单元（含二选一矩阵）、上线验收清单 |
+| [`docs/status.md`](docs/status.md) | **接手前先看**：项目现状——谁在跑、缺什么、代码线在哪 |
+| [`AGENTS.md`](AGENTS.md) | **给代理/协作者**：干活规矩（一条上游、生产机铁律、凭证三处、交付自检） |
 | [`examples/`](examples/) | 申请 / 通知 / `plan.json` / `qqbot.json` 的样例（脱敏），直接看格式最快 |
 
 ---
